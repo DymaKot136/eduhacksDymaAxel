@@ -74,8 +74,8 @@
         $mail->Port = 587;
         
         //Credencials del compte GMAIL
-        $mail->Username = 'axel.arizas@educem.net';
-        $mail->Password = '6006N@2122';
+        $mail->Username = '';
+        $mail->Password = '';
 
         //Dades del correu electrònic
         $mail->SetFrom("EduHacksDymaAxel@gmail.com"."Edu Hacks");
